@@ -27,3 +27,7 @@ chmod +x nginx_log_analyzer.sh
 
 ## Result
 ![image](https://github.com/user-attachments/assets/70f2a6dc-5736-400a-a721-9461b0e4574f)
+
+## Solution
+[https://roadmap.sh/projects/nginx-log-analyser]
+
